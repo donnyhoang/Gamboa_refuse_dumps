@@ -1,0 +1,65 @@
+Sample,Type,Site,Treatment,weightboat,wet,dry,percent_water,ph
+1_top_x,natural,1,Top (environmental),3,6.3,4.1,200,6.5
+1_bottom_x,natural,1,Bottom (environmental),3,8.1,4.8,183.3333333,7
+1_sx_1,experimental,1,Soil only,2.8,19.5,6.2,391.1764706,7.5
+1_sx_2,experimental,1,Soil only,3,16.7,7.6,197.826087,7
+1_sx_3,experimental,1,Soil only,3,7.8,4.6,200,6.5
+1_sn_1,experimental,1,Soil & Net,3,18.7,7.9,220.4081633,7.5
+1_sn_2,experimental,1,Soil & Net,2.9,13.1,6.1,218.75,7.5
+1_sn_3,experimental,1,Soil & Net,2.9,19.7,10.2,130.1369863,7.5
+1_xn_1,experimental,1,Net only,3.1,18.5,5.8,470.3703704,8
+1_xn_2,experimental,1,Net only,2.9,17.7,5.8,410.3448276,8
+1_xn_3,experimental,1,Net only,3,19.6,6.4,388.2352941,7.5
+1_xx_1,experimental,1,No additions,2.7,14.7,5.4,344.4444444,7.5
+1_xx_2,experimental,1,No additions,2.8,12.7,5.2,312.5,7
+1_xx_3,experimental,1,No additions,2.8,14.6,5.8,293.3333333,7
+2_top_x,natural,2,Top (environmental),2.7,6,3.7,230,6.5
+2_bottom_x,natural,2,Bottom (environmental),2.7,8.6,4.6,210.5263158,7.5
+2_sx_1,experimental,2,Soil only,2.9,19.9,6.4,385.7142857,7
+2_sx_2,experimental,2,Soil only,2.9,15.3,7.5,169.5652174,7
+2_sx_3,experimental,2,Soil only,3,17.7,6.9,276.9230769,7
+2_sn_1,experimental,2,Soil & Net,2.9,18.5,6.3,358.8235294,7.5
+2_sn_2,experimental,2,Soil & Net,2.9,19.8,6.3,397.0588235,7
+2_sn_3,experimental,2,Soil & Net,2.9,20.2,7.8,253.0612245,7
+2_xn_1,experimental,2,Net only,2.8,18.3,5.6,453.5714286,7.5
+2_xn_2,experimental,2,Net only,2.7,18.9,5.6,458.6206897,7.5
+2_xn_3,experimental,2,Net only,2.7,18.5,5.7,426.6666667,7.5
+2_xx_1,experimental,2,No additions,2.7,18.2,5.9,384.375,7
+2_xx_2,experimental,2,No additions,2.8,18.5,5.6,460.7142857,7
+2_xx_3,experimental,2,No additions,2.8,18.6,5.4,507.6923077,7
+3_top_x,natural,3,Top (environmental),3,6,3.8,275,7
+3_bottom_x,natural,3,Bottom (environmental),3,10.7,5.2,250,7.5
+3_sx_1,experimental,3,Soil only,2.8,19.3,7.7,236.7346939,7
+3_sx_2,experimental,3,Soil only,3,19,7.8,233.3333333,7
+3_sx_3,experimental,3,Soil only,2.9,18.2,6.6,313.5135135,7
+3_sn_1,experimental,3,Soil & Net,2.9,17.9,6.2,354.5454545,7.5
+3_sn_2,experimental,3,Soil & Net,2.9,16.4,6.3,297.0588235,7.5
+3_sn_3,experimental,3,Soil & Net,2.9,18.6,6.4,348.5714286,7
+3_xn_1,experimental,3,Net only,3,18.6,5.7,477.7777778,6.5
+3_xn_2,experimental,3,Net only,2.9,18.8,5.4,536,7.5
+3_xn_3,experimental,3,Net only,2.9,18.2,5.4,512,7
+3_xx_1,experimental,3,No additions,2.8,13.4,4.9,404.7619048,7.5
+3_xx_2,experimental,3,No additions,2.8,17.1,5.6,410.7142857,7.5
+3_xx_3,experimental,3,No additions,2.8,17.6,5.6,428.5714286,7.5
+4_top,natural,4,Top (environmental),3,5.6,3.9,188.8888889,7
+4_bottom,natural,4,Bottom (environmental),2.9,7.5,4.1,283.3333333,6.5
+5_top,natural,5,Top (environmental),3,5.4,3.9,166.6666667,7.5
+5_bottom,natural,5,Bottom (environmental),2.9,7.5,4.4,206.6666667,6.5
+6_top,natural,6,Top (environmental),2.8,5.7,3.7,222.2222222,7
+6_bottom,natural,6,Bottom (environmental),2.9,6,4.4,106.6666667,7
+7_top,natural,7,Top (environmental),2.7,5,3.9,91.66666667,6.5
+7_bottom,natural,7,Bottom (environmental),2.8,6.7,4,225,6.5
+8_top,natural,8,Top (environmental),2.7,5.5,3.6,211.1111111,7
+8_bottom,natural,8,Bottom (environmental),2.7,7.5,4.4,182.3529412,6.5
+9_top,natural,9,Top (environmental),2.8,5.4,3.6,225,7
+9_bottom,natural,9,Bottom (environmental),2.8,7.9,4.2,264.2857143,7.5
+10_top,natural,1,Top (environmental),2.7,5.6,3.7,190,6.5
+10_bottom,natural,1,Bottom (environmental),2.8,6.3,4.4,118.75,7
+11_top,natural,1,Top (environmental),2.7,5.5,3.8,154.5454545,6.5
+11_bottom,natural,1,Bottom (environmental),2.7,9.4,5.2,168,7.5
+12_top,natural,1,Top (environmental),2.9,5.3,3.6,242.8571429,6.5
+12_bottom,natural,1,Bottom (environmental),2.9,7.5,4.4,206.6666667,6.5
+13_top,natural,1,Top (environmental),2.9,4.4,4.3,7.142857143,6.5
+13_bottom,natural,1,Bottom (environmental),2.8,5,4.6,22.22222222,6.5
+14_top,natural,1,Top (environmental),2.9,6.1,4.2,146.1538462,6.5
+14_bottom,natural,1,Bottom (environmental),2.9,7.8,4.9,145,6.5

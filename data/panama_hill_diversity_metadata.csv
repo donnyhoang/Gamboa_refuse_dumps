@@ -1,0 +1,153 @@
+"Sample","Hill0","Hill1","Hill2","Site","Type","Initial","Treatment","Soil","Net","Replicate","Subreplicate"
+"1-b-1",188,34.8381731227397,16.2685195351159,"1","environmental","no","Bottom (environmental)",FALSE,FALSE,"1",NA
+"1-b-2",164,38.599255837669,20.7033855809576,"1","environmental","no","Bottom (environmental)",FALSE,FALSE,"2",NA
+"1-bx-1",217,59.7483576193962,28.5167285278113,"1","environmental","yes","Bottom (environmental)",FALSE,FALSE,"1",NA
+"1-bx-2",234,66.5743765140751,28.0759446683028,"1","environmental","yes","Bottom (environmental)",FALSE,FALSE,"2",NA
+"1-bx-3",225,58.0343765973863,23.2633330496668,"1","environmental","yes","Bottom (environmental)",FALSE,FALSE,"3",NA
+"1-sn-11",209,100.334329535354,64.5201483317702,"1","experimental","no","Soil & Net",TRUE,TRUE,"1","1"
+"1-sn-12",237,104.584298123638,60.8884930955193,"1","experimental","no","Soil & Net",TRUE,TRUE,"1","2"
+"1-sn-13",238,86.6236956090412,40.8810136840511,"1","experimental","no","Soil & Net",TRUE,TRUE,"1","3"
+"1-sn-21",276,86.4385922100014,48.9533333183752,"1","experimental","no","Soil & Net",TRUE,TRUE,"2","1"
+"1-sn-22",260,86.7958482824115,50.7229998339845,"1","experimental","no","Soil & Net",TRUE,TRUE,"2","2"
+"1-sn-23",284,92.0894055441399,51.9427671555464,"1","experimental","no","Soil & Net",TRUE,TRUE,"2","3"
+"1-sn-31",249,80.6376635542812,47.7864310633001,"1","experimental","no","Soil & Net",TRUE,TRUE,"3","1"
+"1-sn-32",253,85.4865117299336,47.6201097500308,"1","experimental","no","Soil & Net",TRUE,TRUE,"3","2"
+"1-sn-33",271,90.7296456502041,50.8635076419851,"1","experimental","no","Soil & Net",TRUE,TRUE,"3","3"
+"1-so-1",226,74.9276548238072,36.4730738429355,"1","environmental","no","Soil (environmental)",TRUE,FALSE,"1",NA
+"1-so-2",195,67.4713904558444,30.7451797564398,"1","environmental","no","Soil (environmental)",TRUE,FALSE,"2",NA
+"1-so-3",217,87.3405972863224,48.9213809274749,"1","environmental","no","Soil (environmental)",TRUE,FALSE,"3",NA
+"1-sox-1",158,66.9107906609503,38.2053676988953,"1","environmental","no","Soil (environmental)",TRUE,FALSE,"1",NA
+"1-sox-2",206,89.5571097946045,50.8587347695007,"1","environmental","no","Soil (environmental)",TRUE,FALSE,"2",NA
+"1-sox-3",120,57.1363172170165,34.712554021352,"1","environmental","no","Soil (environmental)",TRUE,FALSE,"3",NA
+"1-sx-11",250,85.5006076281042,43.8614406425384,"1","experimental","no","Soil only",TRUE,FALSE,"1","1"
+"1-sx-12",250,78.821388723591,38.4503859973784,"1","experimental","no","Soil only",TRUE,FALSE,"1","2"
+"1-sx-13",266,90.911282683289,48.5531157670735,"1","experimental","no","Soil only",TRUE,FALSE,"1","3"
+"1-sx-21",217,90.9534143290479,52.6887114056546,"1","experimental","no","Soil only",TRUE,FALSE,"2","1"
+"1-sx-22",267,91.7598925286184,49.4320186067934,"1","experimental","no","Soil only",TRUE,FALSE,"2","2"
+"1-sx-23",277,95.1531012050668,51.6500069817419,"1","experimental","no","Soil only",TRUE,FALSE,"2","3"
+"1-sx-31",342,100.794932662853,50.569020988257,"1","experimental","no","Soil only",TRUE,FALSE,"3","1"
+"1-sx-32",300,105.959694311561,51.8197043342378,"1","experimental","no","Soil only",TRUE,FALSE,"3","2"
+"1-sx-33",279,99.5298739213617,53.4706113377277,"1","experimental","no","Soil only",TRUE,FALSE,"3","3"
+"1-t-1",211,53.08574137983,29.1383302116214,"1","environmental","no","Top (environmental)",FALSE,FALSE,"1",NA
+"1-t-2",247,32.969662369733,14.1336228270136,"1","environmental","no","Top (environmental)",FALSE,FALSE,"2",NA
+"1-t-3",220,27.4036045504202,10.879372767718,"1","environmental","no","Top (environmental)",FALSE,FALSE,"3",NA
+"1-tx-1",245,29.2880401395752,11.9608480055676,"1","environmental","no","Top (environmental)",FALSE,FALSE,"1",NA
+"1-tx-2",249,31.7749199779132,11.9093492053861,"1","environmental","no","Top (environmental)",FALSE,FALSE,"2",NA
+"1-tx-3",201,20.3522611623816,7.69473644353002,"1","environmental","no","Top (environmental)",FALSE,FALSE,"3",NA
+"1-xn-11",260,86.9287211151493,48.9551703939477,"1","experimental","no","Net only",FALSE,TRUE,"1","1"
+"1-xn-12",235,82.7073447387116,47.9185104384985,"1","experimental","no","Net only",FALSE,TRUE,"1","2"
+"1-xn-13",236,78.8770304255077,43.5233587758511,"1","experimental","no","Net only",FALSE,TRUE,"1","3"
+"1-xn-21",310,112.505143955301,59.0632952577704,"1","experimental","no","Net only",FALSE,TRUE,"2","1"
+"1-xn-22",252,86.55544950848,47.9997910637817,"1","experimental","no","Net only",FALSE,TRUE,"2","2"
+"1-xn-23",228,59.0093225627723,19.7798259641038,"1","experimental","no","Net only",FALSE,TRUE,"2","3"
+"1-xn-32",264,80.0708503801526,40.6256561257164,"1","experimental","no","Net only",FALSE,TRUE,"3","2"
+"1-xn-33",250,83.2770050304399,44.8213321827468,"1","experimental","no","Net only",FALSE,TRUE,"3","3"
+"1-xx-11",290,96.8838912090876,55.1176291443121,"1","experimental","no","No additions",FALSE,FALSE,"1","1"
+"1-xx-12",264,88.6835991259259,48.1156651042618,"1","experimental","no","No additions",FALSE,FALSE,"1","2"
+"1-xx-13",295,105.615817102094,57.3949690053668,"1","experimental","no","No additions",FALSE,FALSE,"1","3"
+"1-xx-21",245,80.9328953900655,44.0948755188243,"1","experimental","no","No additions",FALSE,FALSE,"2","1"
+"1-xx-22",251,75.9310285079294,37.2451104421975,"1","experimental","no","No additions",FALSE,FALSE,"2","2"
+"1-xx-23",268,70.0167146333991,30.1495426684515,"1","experimental","no","No additions",FALSE,FALSE,"2","3"
+"1-xx-31",305,112.207284337056,63.8069238964215,"1","experimental","no","No additions",FALSE,FALSE,"3","1"
+"1-xx-32",260,99.6604663330917,58.424989888245,"1","experimental","no","No additions",FALSE,FALSE,"3","2"
+"1-xx-33",323,112.121970346259,67.2841618498134,"1","experimental","no","No additions",FALSE,FALSE,"3","3"
+"2-b-1",152,18.391533368288,8.76397256689897,"2","environmental","no","Bottom (environmental)",FALSE,FALSE,"1",NA
+"2-b-2",153,24.6551660489793,11.6969104988127,"2","environmental","no","Bottom (environmental)",FALSE,FALSE,"2",NA
+"2-bx-1",155,45.4996047581963,27.7163363292366,"2","environmental","yes","Bottom (environmental)",FALSE,FALSE,"1",NA
+"2-bx-2",122,33.4626648216609,20.0636992403912,"2","environmental","yes","Bottom (environmental)",FALSE,FALSE,"2",NA
+"2-bx-3",147,40.1671531129259,22.2343345136942,"2","environmental","yes","Bottom (environmental)",FALSE,FALSE,"3",NA
+"2-sn-11",288,91.50275192387,48.3914028009594,"2","experimental","no","Soil & Net",TRUE,TRUE,"1","1"
+"2-sn-12",248,90.9827498530364,48.9118615793726,"2","experimental","no","Soil & Net",TRUE,TRUE,"1","2"
+"2-sn-13",235,97.7417880334249,59.4953458046262,"2","experimental","no","Soil & Net",TRUE,TRUE,"1","3"
+"2-sn-21",292,76.6551102429657,40.4851068837021,"2","experimental","no","Soil & Net",TRUE,TRUE,"2","1"
+"2-sn-22",223,58.0047930123615,32.4285580978102,"2","experimental","no","Soil & Net",TRUE,TRUE,"2","2"
+"2-sn-23",262,89.2871343048825,50.3705746583216,"2","experimental","no","Soil & Net",TRUE,TRUE,"2","3"
+"2-sn-31",245,81.3785395191961,44.2265882997671,"2","experimental","no","Soil & Net",TRUE,TRUE,"3","1"
+"2-sn-32",261,81.0854826665298,38.7880319430609,"2","experimental","no","Soil & Net",TRUE,TRUE,"3","2"
+"2-sn-33",235,94.924279286264,58.8378660384715,"2","experimental","no","Soil & Net",TRUE,TRUE,"3","3"
+"2-so-1",177,66.8016917908242,41.8562512465727,"2","environmental","no","Soil (environmental)",TRUE,FALSE,"1",NA
+"2-so-3",129,52.7044245978666,34.1691918658142,"2","environmental","no","Soil (environmental)",TRUE,FALSE,"3",NA
+"2-sox-1",155,59.6654502291143,36.4517350506192,"2","environmental","no","Soil (environmental)",TRUE,FALSE,"1",NA
+"2-sox-2",176,74.4097992893243,45.3636236689204,"2","environmental","no","Soil (environmental)",TRUE,FALSE,"2",NA
+"2-sox-3",149,60.3196723329936,35.6530858515197,"2","environmental","no","Soil (environmental)",TRUE,FALSE,"3",NA
+"2-sx-11",289,105.915611620638,56.8633337992969,"2","experimental","no","Soil only",TRUE,FALSE,"1","1"
+"2-sx-12",295,115.872022157269,69.805319092674,"2","experimental","no","Soil only",TRUE,FALSE,"1","2"
+"2-sx-13",325,116.30084327328,67.581701825077,"2","experimental","no","Soil only",TRUE,FALSE,"1","3"
+"2-sx-21",286,122.627273868062,77.7447409075217,"2","experimental","no","Soil only",TRUE,FALSE,"2","1"
+"2-sx-22",286,114.852637878139,67.5404913248924,"2","experimental","no","Soil only",TRUE,FALSE,"2","2"
+"2-sx-31",247,81.6128590074904,40.4156484753417,"2","experimental","no","Soil only",TRUE,FALSE,"3","1"
+"2-sx-32",280,105.789463046501,60.2195936776317,"2","experimental","no","Soil only",TRUE,FALSE,"3","2"
+"2-sx-33",288,103.570091383488,53.2484044690708,"2","experimental","no","Soil only",TRUE,FALSE,"3","3"
+"2-t-1",161,18.9305536228697,9.01417806810708,"2","environmental","no","Top (environmental)",FALSE,FALSE,"1",NA
+"2-t-2",146,18.5840732036955,8.61184264462062,"2","environmental","no","Top (environmental)",FALSE,FALSE,"2",NA
+"2-tx-1",230,43.3854649799862,17.7469028585635,"2","environmental","no","Top (environmental)",FALSE,FALSE,"1",NA
+"2-tx-2",241,36.6668554282325,12.964232564827,"2","environmental","no","Top (environmental)",FALSE,FALSE,"2",NA
+"2-tx-3",235,46.1737336561276,16.5535953540244,"2","environmental","no","Top (environmental)",FALSE,FALSE,"3",NA
+"2-xn-11",220,54.2176342322665,17.8252487980454,"2","experimental","no","Net only",FALSE,TRUE,"1","1"
+"2-xn-12",214,68.1276367077281,29.6868677665075,"2","experimental","no","Net only",FALSE,TRUE,"1","2"
+"2-xn-21",313,86.5219858087127,46.4752114677537,"2","experimental","no","Net only",FALSE,TRUE,"2","1"
+"2-xn-22",243,75.0918300737677,39.8245029709656,"2","experimental","no","Net only",FALSE,TRUE,"2","2"
+"2-xn-23",271,94.4048752768801,51.024017166421,"2","experimental","no","Net only",FALSE,TRUE,"2","3"
+"2-xn-31",259,77.1548813127064,38.7799365246819,"2","experimental","no","Net only",FALSE,TRUE,"3","1"
+"2-xn-32",233,73.5841869811156,36.9154866633743,"2","experimental","no","Net only",FALSE,TRUE,"3","2"
+"2-xn-33",226,71.908446925823,35.4843444589079,"2","experimental","no","Net only",FALSE,TRUE,"3","3"
+"2-xx-12",243,95.047910472299,55.4154140647674,"2","experimental","no","No additions",FALSE,FALSE,"1","2"
+"2-xx-13",284,72.898034449341,37.6240701733846,"2","experimental","no","No additions",FALSE,FALSE,"1","3"
+"2-xx-21",192,57.7942906596039,29.7844756839239,"2","experimental","no","No additions",FALSE,FALSE,"2","1"
+"2-xx-22",198,74.4962997480879,42.6780744038803,"2","experimental","no","No additions",FALSE,FALSE,"2","2"
+"2-xx-23",206,59.6814094509777,31.7292740562867,"2","experimental","no","No additions",FALSE,FALSE,"2","3"
+"2-xx-31",233,82.2215122153547,43.7082348943036,"2","experimental","no","No additions",FALSE,FALSE,"3","1"
+"2-xx-32",235,45.6482485408994,14.9328390070313,"2","experimental","no","No additions",FALSE,FALSE,"3","2"
+"2-xx-33",242,89.1496500514411,50.4921008902064,"2","experimental","no","No additions",FALSE,FALSE,"3","3"
+"3-b-1",142,27.042444821503,8.81498295279645,"3","environmental","no","Bottom (environmental)",FALSE,FALSE,"1",NA
+"3-b-2",160,44.8244967839019,22.330312813941,"3","environmental","no","Bottom (environmental)",FALSE,FALSE,"2",NA
+"3-b-3",150,32.1763050401154,10.9520046724094,"3","environmental","no","Bottom (environmental)",FALSE,FALSE,"3",NA
+"3-bx-1",229,77.7245477580335,34.1746241429317,"3","environmental","yes","Bottom (environmental)",FALSE,FALSE,"1",NA
+"3-bx-2",220,46.5148477258145,11.3341195021033,"3","environmental","yes","Bottom (environmental)",FALSE,FALSE,"2",NA
+"3-bx-3",215,65.1168405703554,27.373585486641,"3","environmental","yes","Bottom (environmental)",FALSE,FALSE,"3",NA
+"3-sn-11",236,67.6608326112482,32.4683710692846,"3","experimental","no","Soil & Net",TRUE,TRUE,"1","1"
+"3-sn-12",178,45.3018738705905,23.4492263676908,"3","experimental","no","Soil & Net",TRUE,TRUE,"1","2"
+"3-sn-13",213,52.8849337762607,27.6232553237532,"3","experimental","no","Soil & Net",TRUE,TRUE,"1","3"
+"3-sn-21",221,64.8443454748605,33.9775958084282,"3","experimental","no","Soil & Net",TRUE,TRUE,"2","1"
+"3-sn-23",259,87.4990936702723,49.7694664918929,"3","experimental","no","Soil & Net",TRUE,TRUE,"2","3"
+"3-sn-31",241,84.4899972946294,45.0221090566903,"3","experimental","no","Soil & Net",TRUE,TRUE,"3","1"
+"3-sn-32",269,118.141787344303,70.2603935881077,"3","experimental","no","Soil & Net",TRUE,TRUE,"3","2"
+"3-sn-33",286,103.586477436445,55.9877159668738,"3","experimental","no","Soil & Net",TRUE,TRUE,"3","3"
+"3-so-1",105,25.3476452241682,9.10702107179301,"3","environmental","no","Soil (environmental)",TRUE,FALSE,"1",NA
+"3-so-2",87,25.3652497101036,10.6545089743096,"3","environmental","no","Soil (environmental)",TRUE,FALSE,"2",NA
+"3-so-3",80,24.2322795792816,11.3392877688352,"3","environmental","no","Soil (environmental)",TRUE,FALSE,"3",NA
+"3-sox-1",143,35.1313684827413,12.9954523151531,"3","environmental","no","Soil (environmental)",TRUE,FALSE,"1",NA
+"3-sox-2",108,23.1004237493604,7.91828212207883,"3","environmental","no","Soil (environmental)",TRUE,FALSE,"2",NA
+"3-sox-3",114,22.6436898813821,7.68985634224403,"3","environmental","no","Soil (environmental)",TRUE,FALSE,"3",NA
+"3-sx-11",219,96.7870452473242,50.2892076714726,"3","experimental","no","Soil only",TRUE,FALSE,"1","1"
+"3-sx-12",194,52.9223919344079,21.9465852075231,"3","experimental","no","Soil only",TRUE,FALSE,"1","2"
+"3-sx-13",144,45.0288003111887,16.8948923123611,"3","experimental","no","Soil only",TRUE,FALSE,"1","3"
+"3-sx-21",239,82.1533941632798,36.1432653027511,"3","experimental","no","Soil only",TRUE,FALSE,"2","1"
+"3-sx-22",251,101.261467488952,51.2200660048626,"3","experimental","no","Soil only",TRUE,FALSE,"2","2"
+"3-sx-23",251,68.5506839417204,23.0108446779827,"3","experimental","no","Soil only",TRUE,FALSE,"2","3"
+"3-sx-31",254,72.982799948034,29.652766262865,"3","experimental","no","Soil only",TRUE,FALSE,"3","1"
+"3-sx-32",247,89.7197763983783,43.4309261391613,"3","experimental","no","Soil only",TRUE,FALSE,"3","2"
+"3-sx-33",181,42.7249610034133,18.0084640222112,"3","experimental","no","Soil only",TRUE,FALSE,"3","3"
+"3-t-1",194,10.7261900767487,2.95292461533283,"3","environmental","no","Top (environmental)",FALSE,FALSE,"1",NA
+"3-t-2",190,8.18555295376911,2.4118926308982,"3","environmental","no","Top (environmental)",FALSE,FALSE,"2",NA
+"3-t-3",135,15.8388338486347,8.76431080071433,"3","environmental","no","Top (environmental)",FALSE,FALSE,"3",NA
+"3-tx-1",254,26.8203358529817,8.48791554845838,"3","environmental","no","Top (environmental)",FALSE,FALSE,"1",NA
+"3-tx-3",137,12.7564003288061,6.23499198748071,"3","environmental","no","Top (environmental)",FALSE,FALSE,"3",NA
+"3-xn-11",199,65.7384206790174,33.5101204479608,"3","experimental","no","Net only",FALSE,TRUE,"1","1"
+"3-xn-12",199,64.9458967105675,32.8084842844369,"3","experimental","no","Net only",FALSE,TRUE,"1","2"
+"3-xn-13",214,62.1117168926798,29.862244786288,"3","experimental","no","Net only",FALSE,TRUE,"1","3"
+"3-xn-21",85,27.653933420696,14.9921533273543,"3","experimental","no","Net only",FALSE,TRUE,"2","1"
+"3-xn-22",244,84.1983349945049,48.488735373991,"3","experimental","no","Net only",FALSE,TRUE,"2","2"
+"3-xn-23",271,86.1313739408181,48.7806156759704,"3","experimental","no","Net only",FALSE,TRUE,"2","3"
+"3-xn-31",230,79.73341260696,41.7027455537293,"3","experimental","no","Net only",FALSE,TRUE,"3","1"
+"3-xn-32",233,68.3805178010394,33.0343984505616,"3","experimental","no","Net only",FALSE,TRUE,"3","2"
+"3-xn-33",206,52.950191636066,25.9920049842639,"3","experimental","no","Net only",FALSE,TRUE,"3","3"
+"3-xx-11",261,84.0928437585985,36.5493675666369,"3","experimental","no","No additions",FALSE,FALSE,"1","1"
+"3-xx-12",272,106.732953685803,50.8695803867561,"3","experimental","no","No additions",FALSE,FALSE,"1","2"
+"3-xx-13",280,111.358688280057,64.5556859968376,"3","experimental","no","No additions",FALSE,FALSE,"1","3"
+"3-xx-21",279,80.8951411443191,33.388454891488,"3","experimental","no","No additions",FALSE,FALSE,"2","1"
+"3-xx-22",266,54.6376342843973,16.2345965777852,"3","experimental","no","No additions",FALSE,FALSE,"2","2"
+"3-xx-23",275,58.8115935352372,19.8610180546498,"3","experimental","no","No additions",FALSE,FALSE,"2","3"
+"3-xx-31",285,119.84885387927,67.9069908482441,"3","experimental","no","No additions",FALSE,FALSE,"3","1"
+"3-xx-32",303,101.364839629288,55.5419048866474,"3","experimental","no","No additions",FALSE,FALSE,"3","2"
+"3-xx-33",292,94.5515559417677,43.6571826819319,"3","experimental","no","No additions",FALSE,FALSE,"3","3"
